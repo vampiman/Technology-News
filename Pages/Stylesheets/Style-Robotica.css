@@ -1,0 +1,80 @@
+body {
+      font: 1vw Lato, sans-serif;
+      color: #777;
+    background-image:url(../../images/design-tools.jpg);
+    background-repeat: repeat;
+    
+     
+  }
+
+.navbar {
+      font-family: Montserrat, sans-serif;
+      margin-bottom: 0;
+      padding-top: 7px;
+      background-color: rgba(0, 0, 0, 0.4);
+      border: 0;
+      font-size: 1vw;
+      letter-spacing: 4px;
+      opacity: 0.9;
+  }
+
+.navbar li a, .navbar .navbar-brand { 
+      color: cyan !important;
+      font-size: 1.5vw: !important;
+      
+            
+  }
+        .navbar-nav li a:hover {
+      color: cyan !important;
+  }
+        .navbar-nav li.active a {
+      color: #fff !important;
+      background-color: #29292c !important;
+  }
+        .navbar-default .navbar-toggle {
+      border-color: transparent;
+  }
+        .open .dropdown-toggle {
+      color: #fff;
+      background-color: #555 !important;
+  }
+
+        .dropdown-menu li a {
+        color: #000 !important;
+  }
+        .dropdown-menu li a:hover {
+        background-color: red !important;
+  }
+.navbar-header {
+    font-size: 1.4vw;
+}
+#title {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 1vw;
+    color: white;
+    padding-top:50px;
+}
+
+.row {
+    padding-top: 30px;
+}
+
+.panel-heading {
+    text-align:center;
+    font-size: 2rem;
+}
+
+
+
+.panel-body {
+    
+}
+
+p {
+    padding-top: 10px
+}
+
+
+
+
+
