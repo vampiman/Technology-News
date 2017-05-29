@@ -1,3 +1,5 @@
 # Technology-News
-Noutati Informatice
-Website unde poti vedea ultimele noutati legate de tehnologie
+Website where you can check the last trends in tech
+
+CIP Vaslui Contest(Applied Informatics Contest)
+1st Place
